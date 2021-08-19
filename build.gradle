@@ -15,7 +15,7 @@ buildscript {
     }
 
     dependencies {
-        classpath "com.android.tools.build:gradle:$gradleVersion"
+        classpath "com.android.tools.build:gradle:${gradleVersion}"
         classpath "com.google.firebase:firebase-crashlytics-gradle:$crashlyticsGradleVersion"
         classpath "com.google.gms:oss-licenses:$ossLicensesVersion"
         classpath "com.google.gms:google-services:$googleServicesVersion"
