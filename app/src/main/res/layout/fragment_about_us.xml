@@ -32,24 +32,32 @@
             android:text="@string/app_version"/>
 
         <ImageView
+            android:layout_width="150dp"
+            android:layout_height="39dp"
             android:layout_gravity="center"
-            android:layout_height="100dp"
             android:layout_margin="@dimen/layout_padding_16dp"
-            android:layout_width="100dp"
-            android:src="@mipmap/mifos_icon"/>
+            android:src="@mipmap/credify" />
 
         <TextView
             android:id="@+id/tv_copy_right"
             android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
-            android:text="@string/copy_right_mifos"/>
+            android:text="@string/copy_right_credify"/>
 
         <TextView
             android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
             android:text="@string/all_rights_reserved"/>
+
+        <TextView
+            android:autoLink="web"
+            android:id="@+id/tv_guchietech"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/powered_by_guchietech" />
 
         <TextView
             android:id="@+id/tv_licenses"

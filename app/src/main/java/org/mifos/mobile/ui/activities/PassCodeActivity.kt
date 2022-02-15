@@ -39,7 +39,7 @@ class PassCodeActivity : MifosPassCodeActivity() {
     }
 
     override fun getLogo(): Int {
-        return R.drawable.mifos_logo
+        return R.drawable.credify
     }
 
     override fun startNextActivity() {
