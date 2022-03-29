@@ -16,7 +16,7 @@ class BaseURL {
     }
 
     companion object {
-        const val API_ENDPOINT = "loans.credify.pw"
+        const val API_ENDPOINT = "release160.guchietech.pw"
         const val API_PATH = "/fineract-provider/api/v1/self/"
         const val PROTOCOL_HTTPS = "https://"
     }

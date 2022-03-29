@@ -28,7 +28,7 @@
                 android:layout_height="@dimen/login_height"
                 android:layout_marginBottom="@dimen/login_margin_bottom"
                 android:layout_width="wrap_content"
-                android:src="@drawable/credify"/>
+                android:src="@drawable/guchietech"/>
 
             <!-- Username  Label -->
             <com.google.android.material.textfield.TextInputLayout

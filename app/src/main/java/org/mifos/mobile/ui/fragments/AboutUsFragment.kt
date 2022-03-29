@@ -56,7 +56,7 @@ class AboutUsFragment : BaseFragment() {
      //   setupHyperlink();
         webView?.loadUrl("www.guchietech.com")
         tvAppVersion?.text = getString(R.string.app_version, BuildConfig.VERSION_NAME)
-        tvCopyRight?.text = getString(R.string.copy_right_credify, Calendar.getInstance()[Calendar.YEAR].toString())
+        tvCopyRight?.text = getString(R.string.copy_right_guchietech, Calendar.getInstance()[Calendar.YEAR].toString())
         return rootView
     }
 

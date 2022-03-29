@@ -36,14 +36,14 @@
             android:layout_height="39dp"
             android:layout_gravity="center"
             android:layout_margin="@dimen/layout_padding_16dp"
-            android:src="@mipmap/credify" />
+            android:src="@mipmap/guchietech" />
 
         <TextView
             android:id="@+id/tv_copy_right"
             android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
-            android:text="@string/copy_right_credify"/>
+            android:text="@string/copy_right_guchietech"/>
 
         <TextView
             android:layout_gravity="center"

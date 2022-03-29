@@ -4,7 +4,7 @@
     <item android:drawable="@color/white"/>
 
     <item>
-        <bitmap android:src="@drawable/credify_splash_screen" />
+        <bitmap android:src="@drawable/guchietech_splash_screen" />
     </item>
 
 </layer-list>
